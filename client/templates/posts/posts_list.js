@@ -18,5 +18,5 @@ var postData = [
 ];
 
 Template.postsList.helpers({
-    posts: postsData
+    posts: postData
 });
